@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # React + Vite
 # to-do-list
 # 📝 Todo List Web App
@@ -17,12 +17,6 @@ A responsive and user-friendly Todo List application built using React and Tailw
 - Tailwind CSS
 - JavaScript (ES6+)
 - Vite
-
-## 📸 Screenshots
-(Add screenshots here after deployment)
-
-## 🌐 Live Demo
-(Add your deployed link here)
 
 ## 📂 Installation
 
